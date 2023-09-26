@@ -141,7 +141,7 @@ Pratikkumar Prajapati and Chris Pollett, MRI-GAN: A Generalized Approach to Dete
 or
 ```
 @misc{2203.00108,
-Author = {Pratikkumar Prajapati and Chris Pollett},
+Author = {vignesh S}
 Title = {MRI-GAN: A Generalized Approach to Detect DeepFakes using Perceptual Image Assessment},
 Year = {2022},
 Eprint = {arXiv:2203.00108},
