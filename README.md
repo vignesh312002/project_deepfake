@@ -136,7 +136,7 @@ Use the model to test a given video file.
 
 ## How to cite our research!
 ```
-Pratikkumar Prajapati and Chris Pollett, MRI-GAN: A Generalized Approach to Detect DeepFakes using Perceptual Image Assessment. arXiv preprint arXiv:2203.00108 (2022)
+vignesh S , MRI-GAN: A Generalized Approach to Detect DeepFakes using Perceptual Image Assessment. arXiv preprint arXiv:2203.00108 (2022)
 ```
 or
 ```
